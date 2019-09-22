@@ -1,2 +1,0 @@
-# CalorieTracker
-Created with CodeSandbox
