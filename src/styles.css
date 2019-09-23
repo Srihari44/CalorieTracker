@@ -1,22 +1,27 @@
 .card {
-  margin-top: 10%;
-  background-color: rgb(121, 214, 141);
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 10%;
+  background-color: rgb(209, 56, 56);
+  color: rgb(224, 220, 220);
+  margin-top: 5%;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 5%;
 }
 .list-group-item {
-  background-color: rgb(121, 214, 141);
+  background-color: rgb(209, 56, 56);
+  font-family: "Trebuchet MS";
+  color: #7bdbab;
   cursor: pointer;
+  border-color: #4b3939;
 }
 .list-group-item:hover {
-  border-left-width: 5px;
-  border-right-width: 5px;
-  font-weight: 650;
-  /* border-bottom-color: rgb(228, 95, 90); */
+  border-left-width: 3px;
+  border-right-width: 3px;
+  border-left-color: rgb(34, 34, 34);
+  border-right-color: rgb(34, 34, 34);
+  font-weight: 675;
 }
 body {
-  background-color: #e78181;
+  background-color: #272626;
   display: flex;
   justify-content: center;
   text-align: center;

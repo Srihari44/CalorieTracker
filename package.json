@@ -1,8 +1,14 @@
 {
-  "name": "react-live-3",
+  "name": "cal-cal",
   "version": "1.0.0",
-  "description": "",
-  "keywords": [],
+  "description": "Calorie Calculator",
+  "keywords": [
+    "react",
+    "javascript",
+    "simple",
+    "tanay pratap",
+    "calorie calculator"
+  ],
   "main": "src/index.js",
   "dependencies": {
     "bootstrap": "4.3.1",
