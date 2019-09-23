@@ -83,6 +83,7 @@ class App extends React.Component {
             </button>
           </div>
         </div>
+        <p className="footer">Developed by Name of Innocence</p>
       </div>
     );
   }
