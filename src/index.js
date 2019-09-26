@@ -40,7 +40,7 @@ class App extends React.Component {
     return (
       <div>
         <br />
-        <h1 className="text-primary">Cal-Cal</h1>
+        <h1 className="text-primary">CaL-CaL</h1>
         <div className="card">
           <div className="card-body">
             <Header heading={"Let's see how many calories"} />
